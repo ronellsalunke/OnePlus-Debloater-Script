@@ -18,6 +18,8 @@ It's rather simple:
 3. Open a terminal and navigate to the cloned repository
 4. Type in the following command:
     `chmod +x debloat.sh && ./debloat.sh`
+    
+    Windows users can rename the file extension from `.sh` to `.bat` and execute it in a command window
 5. Alternatively, you can can use the `adb shell` command to uninstall any additional bloat  
 
 ## Misc.
