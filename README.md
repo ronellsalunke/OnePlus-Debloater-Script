@@ -18,12 +18,14 @@ It's rather simple:
 3. Open a terminal and navigate to the cloned repository
 4. Type in the following command:
     `chmod +x debloat.sh && ./debloat.sh`
-    
+
     Windows users can rename the file extension from `.sh` to `.bat` and execute it in a command window
 5. Alternatively, you can can use the `adb shell` command to uninstall any additional bloat  
 
 ## Misc.
-This script is provided for use as is, and you acknowledge the risks of running it. While this script does nothing beyond uninstall a few apps from the default user account, I take no responsibility for any damage caused whatsoever. Use this at your own risk. I will not provide support for the same, however contributions are welcome.
+This script is provided for use as is, and you acknowledge the risks of running it. While this script does nothing beyond uninstall a few apps from the default user account, I take no responsibility for any damage caused whatsoever. Use this at your own risk. I will not provide support for the same, however contributions are welcome. 
+
+After some initial feedback, I have added a text file containing the names of a few more apps and their corresponding package names which you *may* want to consider uninstalling. You can uninstall any of these apps using the same `adb shell pm uninstall --user 0 <package>` command as used in the script.
 
 
 ## FAQ
