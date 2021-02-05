@@ -2,18 +2,12 @@ Additional apps you may want to uninstall:
 
 1. OnePlus
 
-Work-Life Balance: com.oneplus.opwlb
-Games: com.oneplus.gamespace
-Game Space Installer: com.oneplus.gameinstaller
 File Manager: com.oneplus.filemanager
-Gallery: com.oneplus.gallery
-Shot on Oneplus: cn.oneplus.photos
 Calculator: com.oneplus.calculator
 
 2. Google:
 
 Drive: com.google.android.apps.docs
-Duo: com.google.android.apps.tachyon
 Gboard: com.google.android.inputmethod.latin
 Gmail: com.google.android.gm
 Maps: com.google.android.apps.maps
