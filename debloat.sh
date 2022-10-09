@@ -20,6 +20,10 @@ adb shell pm uninstall --user 0 com.oneplus.gameinstaller
 adb shell pm uninstall --user 0 com.oneplus.gallery
 adb shell pm uninstall --user 0 com.oneplus.mall
 adb shell pm uninstall --user 0 cn.oneplus.photos
+adb shell pm uninstall --user 0 com.oneplus.iconpack.oneplush2
+adb shell pm uninstall --user 0 com.oneplus.iconpack.onepluso2
+adb shell pm uninstall --user 0 com.oneplus.canvasresources
+adb shell pm uninstall --user 0 com.oneplus.wallpaper
 
 
 
